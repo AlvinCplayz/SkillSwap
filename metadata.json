@@ -1,0 +1,8 @@
+{
+  "name": "SkillSwap",
+  "description": "A skill-trading platform where users exchange skills without money. Users list skills they have and skills they want, and the app matches them with compatible partners locally or online.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
